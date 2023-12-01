@@ -1,0 +1,53 @@
+body{
+    background-image: url(Soft\ Skin\ Wallpaper\ Images\ HD\ 3584\ Wallpaper\ Cool\ Walldiskpapercom.jpg);
+}
+body {
+    font-family: 'verdana', Arial, Helvetica, sans-serif;
+    font-style: bold;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    color:black;
+    text-align: center;
+    padding: 20px;
+}
+
+.about {
+    text-align: center;
+    padding: 20px;
+}
+.My{
+    text-align: center;
+    padding: 20px;
+}
+.project {
+    text-align: center;
+    padding: 20px;
+}
+.You{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;}
+
+.icons{
+
+    text-align: center;
+}
+  
+
+footer {
+   
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
